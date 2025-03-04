@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Welcome to my GitHub profile! I'm R00tXNemesis, a passionate Cybersecurity Enthusiast and Web Pentester who loves exploring OSINT, pentesting, and web security and all abaout technology.
+Welcome to my GitHub profile! I'm R00tXNemesis, a passionate Cybersecurity Enthusiast and Web Pentester who loves exploring OSINT, pentesting, and web security and all about technology.
 
 ## 🔍 About Me
 
